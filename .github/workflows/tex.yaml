@@ -14,12 +14,11 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Set up LaTeX environment
-      uses: dante-ev/latex-action@latest  # 正しいバージョンを指定
-
-    - name: Compile LaTeX document
-      run: |
-        latexmk -pdf -shell-escape -interaction=nonstopmode main.tex
-      # `main.tex`をコンパイル対象に変更してください。
+      uses: dante-ev/latex-action@latest
+      with:
+        root_file: main.tex  # ここにコンパイルするTeXファイル名を指定
+        compiler: latexmk
+        args: -pdf -latexoption=-file-line-error -latexoption=-interaction=nonstopmode
 
     - name: Create Release
       id: create_release
