@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p3.9.0-u1.27-210218-2.6 (utf8.uptex) (TeX Live 2021) (preloaded format=uplatex 2021.7.20)  30 JUL 2024 14:24
+This is e-upTeX, Version 3.141592653-p3.9.0-u1.27-210218-2.6 (utf8.uptex) (TeX Live 2021) (preloaded format=uplatex 2021.7.20)  21 OCT 2024 13:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -8,20 +8,6 @@ entering extended mode
 pLaTeX2e <2020-10-01u04>+2 (based on LaTeX2e <2020-10-01> patch level 4)
 L3 programming layer <2021-02-18> (/usr/local/texlive/2021/texmf-dist/tex/platex/jsclasses/jsbook.cls
 Document Class: jsbook 2020/10/09 jsclasses (okumura, texjporg)
-
-/usr/local/texlive/2021/texmf-dist/tex/platex/jsclasses/jsbook.cls:229: Class jsbook Error: You are running upLaTeX.
-(jsbook)              Please use pLaTeX instead, or add 'uplatex' to
-(jsbook)              the class option list.
-
-See the jsbook class documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.229       {\@ehc}
-                   
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
 \jsc@mpt=\dimen154
 \jsc@mmm=\dimen155
 \jsc@smallskipamount=\skip47
@@ -72,13 +58,23 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: dvips.def on input line 105.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/dvips.def
-File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+Package graphics Info: Driver file: dvipdfmx.def on input line 105.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2021/03/18 v5.0j Graphics/color driver for dvipdfmx
 ))
 \Gin@req@height=\dimen160
 \Gin@req@width=\dimen161
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: dvips.def on input line 147.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2020/09/23 v2.17i AMS math features
 \@mathmargin=\skip50
 
@@ -262,57 +258,145 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen181
 \Gm@layoutvoffset=\dimen182
 \Gm@dimlist=\toks25
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen183
+\lightrulewidth=\dimen184
+\cmidrulewidth=\dimen185
+\belowrulesep=\dimen186
+\belowbottomsep=\dimen187
+\aboverulesep=\dimen188
+\abovetopsep=\dimen189
+\cmidrulesep=\dimen190
+\cmidrulekern=\dimen191
+\defaultaddspace=\dimen192
+\@cmidla=\count280
+\@cmidlb=\count281
+\@aboverulesep=\dimen193
+\@belowrulesep=\dimen194
+\@thisruleclass=\count282
+\@lastruleclass=\count283
+\@thisrulewidth=\dimen195
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip54
+\subfigcapskip=\skip55
+\subfigcaptopadj=\dimen196
+\subfigbottomskip=\skip56
+\subfigcapmargin=\dimen197
+\subfiglabelskip=\skip57
+\c@subfigure=\count284
+\c@lofdepth=\count285
+\c@subtable=\count286
+\c@lotdepth=\count287
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2021/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip58
+\subfig@bottom=\skip59
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip60
+\fb@frw=\dimen198
+\fb@frh=\dimen199
+\FrameRule=\dimen256
+\FrameSep=\dimen257
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen258
+\captionmargin@=\dimen259
+\captionwidth=\dimen260
+\caption@tempdima=\dimen261
+\caption@indent=\dimen262
+\caption@parindent=\dimen263
+\caption@hangindent=\dimen264
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->{\small \advance \leftskip .0628\linewidth \advance \rightskip .0628\linewidth \vskip \abovecaptionskip \sbox \@tempboxa {#1\hskip 1zw\relax #2}\ifdim \wd \@tempboxa <\hsize \centering \fi #1{\hskip 1zw\relax }#2\par \vskip \belowcaptionskip } on input line 1139.
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 19.
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count288
+\c@continuedfloat=\count289
+Package caption Info: hyperref package is loaded.
+Package caption Info: subfigure package is loaded.
+)
+
+/usr/local/texlive/2021/texmf-dist/tex/latex/caption/subcaption.sty:62: Package subcaption Error: This package can't be used in cooperation
+(subcaption)                with the subfigure package.
+
+See the subcaption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 \subcaption@CheckCompatibility
+                                   
+If you do not understand this error, please take a closer look
+at the documentation of the `subcaption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+ Excluding comment 'comment') (/usr/local/texlive/2021/texmf-dist/tex/latex/here/here.sty) (/usr/local/texlive/2021/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count290
+\float@exts=\toks26
+\float@box=\box67
+\@float@everytoks=\toks27
+\@floatcapt=\box68
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 26.
 
 
 Package hyperref Warning: Option `bookmarks' has already been used,
-(hyperref)                setting the option has no effect on input line 19.
+(hyperref)                setting the option has no effect on input line 26.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
 File: l3backend-dvips.def 2021-03-18 L3 backend support: dvips
-\l__pdf_internal_box=\box67
-\g__pdf_backend_object_int=\count280
-\l__pdf_backend_content_box=\box68
-\l__pdf_backend_model_box=\box69
-\g__pdf_backend_annotation_int=\count281
-\g__pdf_backend_link_int=\count282
-\g__pdf_backend_link_sf_int=\count283
+\l__pdf_internal_box=\box69
+\g__pdf_backend_object_int=\count291
+\l__pdf_backend_content_box=\box70
+\l__pdf_backend_model_box=\box71
+\g__pdf_backend_annotation_int=\count292
+\g__pdf_backend_link_int=\count293
+\g__pdf_backend_link_sf_int=\count294
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for JY2/mc/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for JT2/mc/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
- (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package color Info: Driver file: dvips.def on input line 147.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/dvipsnam.def
-File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-))
-Package hyperref Info: Link coloring ON on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for JY2/mc/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for JT2/mc/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+Package hyperref Info: Link coloring ON on input line 35.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
@@ -320,14 +404,14 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count284
+\c@section@level=\count295
 )
-LaTeX Info: Redefining \ref on input line 28.
-LaTeX Info: Redefining \pageref on input line 28.
-LaTeX Info: Redefining \nameref on input line 28.
+LaTeX Info: Redefining \ref on input line 35.
+LaTeX Info: Redefining \pageref on input line 35.
+LaTeX Info: Redefining \nameref on input line 35.
  (./main.out) (./main.out)
-\@outlinefile=\write3
-\openout3 = `main.out'.
+\@outlinefile=\write4
+\openout4 = `main.out'.
 
 
 *geometry* driver: auto-detecting
@@ -364,52 +448,50 @@ LaTeX Info: Redefining \nameref on input line 28.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 15.9785pt on input line 31.
+(Font)              scaled to size 15.9785pt on input line 38.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 15.9785pt on input line 31.
+(Font)              scaled to size 15.9785pt on input line 38.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 31.
+(Font)              scaled to size 11.09619pt on input line 38.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 31.
+(Font)              scaled to size 11.09619pt on input line 38.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 5.5481pt on input line 31.
-LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 13.31541pt on input line 31.
-LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 13.31541pt on input line 31.
+(Font)              scaled to size 5.5481pt on input line 38.
+
+LaTeX Warning: No \author given.
+
 [1
 
 
 ]
-LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 36.
-LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 36.
-LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 6.47278pt on input line 36.
-LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 4.62341pt on input line 36.
 LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT2/gt/m/n' tried instead on input line 36.
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 41.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 36.
+(Font)              scaled to size 9.24683pt on input line 41.
 LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY2/gt/m/n' tried instead on input line 36.
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 41.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 36.
+(Font)              scaled to size 9.24683pt on input line 41.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 6.47278pt on input line 55.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 4.62341pt on input line 55.
  [2]
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 23.0061pt on input line 36.
+(Font)              scaled to size 23.0061pt on input line 55.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 23.0061pt on input line 36.
+(Font)              scaled to size 23.0061pt on input line 55.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 23.0061pt on input line 36.
+(Font)              scaled to size 23.0061pt on input line 55.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 23.0061pt on input line 36.
+(Font)              scaled to size 23.0061pt on input line 55.
  (./main.toc)
-\tf@toc=\write4
-\openout4 = `main.toc'.
+\tf@toc=\write5
+\openout5 = `main.toc'.
 
  [3
 
@@ -418,46 +500,480 @@ LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
 ]
 第1章
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 19.17792pt on input line 38.
+(Font)              scaled to size 19.17792pt on input line 58.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 19.17792pt on input line 38.
+(Font)              scaled to size 19.17792pt on input line 58.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 19.17792pt on input line 38.
+(Font)              scaled to size 19.17792pt on input line 58.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 19.17792pt on input line 38.
-[5] [6
+(Font)              scaled to size 19.17792pt on input line 58.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5] [6] [7] [8]
+File: picture/zoning1.eps Graphic file (type eps)
+ <picture/zoning1.eps>
+File: picture/zoning2.eps Graphic file (type eps)
+ <picture/zoning2.eps> [9
+
+] [10]
+第2章
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 287.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 287.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 287.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 287.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 288.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 288.
+LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 308.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 308.
+LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 308.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 308.
+[11
+
+] [12] [13
 
 ]
-第2章
-[7] [8
+File: picture/トリップ数_全体.eps Graphic file (type eps)
+ <picture/トリップ数_全体.eps>
+File: picture/外出率_全体.eps Graphic file (type eps)
+ <picture/外出率_全体.eps> [14
+
+]
+File: picture/性年齢別のトリップ数.eps Graphic file (type eps)
+ <picture/性年齢別のトリップ数.eps>
+File: picture/性年齢別の外出率.eps Graphic file (type eps)
+ <picture/性年齢別の外出率.eps>
+File: picture/性年齢別のトリップ数_ネット.eps Graphic file (type eps)
+ <picture/性年齢別のトリップ数_ネット.eps> [15
+
+] Excluding 'comment' comment.
+File: picture/gross_net_2007.eps Graphic file (type eps)
+ <picture/gross_net_2007.eps>
+File: picture/out_2007.eps Graphic file (type eps)
+ <picture/out_2007.eps>
+File: picture/gross_sendai.eps Graphic file (type eps)
+ <picture/gross_sendai.eps>
+File: picture/out_sendai.eps Graphic file (type eps)
+ <picture/out_sendai.eps> [16] [17]
+File: picture/connection_通勤・通学.eps Graphic file (type eps)
+ <picture/connection_通勤・通学.eps> [18
+
+] [19]
+File: picture/connection_買い物.eps Graphic file (type eps)
+ <picture/connection_買い物.eps>
+File: picture/shopping_kinuyama.eps Graphic file (type eps)
+ <picture/shopping_kinuyama.eps>
+File: picture/shopping_izumi.eps Graphic file (type eps)
+ <picture/shopping_izumi.eps>
+File: picture/shopping_toon.eps Graphic file (type eps)
+ <picture/shopping_toon.eps>
+File: picture/shopping_masaki.eps Graphic file (type eps)
+ <picture/shopping_masaki.eps> [20
+
+] [21] [22]
+File: picture/connection_食事_社交_娯楽_観光.eps Graphic file (type eps)
+ <picture/connection_食事_社交_娯楽_観光.eps> [23
+
+] [24]
+File: picture/mode_share_day.eps Graphic file (type eps)
+ <picture/mode_share_day.eps> Excluding 'comment' comment.
+File: picture/mode_past.eps Graphic file (type eps)
+ <picture/mode_past.eps>
+File: picture/mode_kumamoto.eps Graphic file (type eps)
+ <picture/mode_kumamoto.eps>
+File: picture/mode_sendai.eps Graphic file (type eps)
+ <picture/mode_sendai.eps> [25
+
+] [26]
+File: picture/mode_share_age.eps Graphic file (type eps)
+ <picture/mode_share_age.eps> [27
+
+]
+File: picture/mode_share_male_age.eps Graphic file (type eps)
+ <picture/mode_share_male_age.eps>
+File: picture/mode_share_female_age.eps Graphic file (type eps)
+ <picture/mode_share_female_age.eps> [28
+
+]
+File: picture/mode_share_通勤通学_age.eps Graphic file (type eps)
+ <picture/mode_share_通勤通学_age.eps>
+File: picture/mode_share_買い物_age.eps Graphic file (type eps)
+ <picture/mode_share_買い物_age.eps>
+File: picture/mode_share_食事・社交・娯楽_age.eps Graphic file (type eps)
+
+<picture/mode_share_食事・社交・娯楽_age.eps>
+File: picture/mode_share_観光・行楽・レジャー_age.eps Graphic file (type eps)
+ <picture/mode_share_観光・行楽・レジャー_age.eps>
+File: picture/mode_share_通院_age.eps Graphic file (type eps)
+ <picture/mode_share_通院_age.eps> [29
+
+] [30] [31] [32
+
+]
+File: picture/mode_share_age_dist.eps Graphic file (type eps)
+ <picture/mode_share_age_dist.eps> [33
+
+] [34]
+File: picture/mode_share_松山市1区.eps Graphic file (type eps)
+ <picture/mode_share_松山市1区.eps>
+File: picture/mode_share_松山市2区.eps Graphic file (type eps)
+ <picture/mode_share_松山市2区.eps> [35
+
+]
+File: picture/mode_share_松山市3区.eps Graphic file (type eps)
+ <picture/mode_share_松山市3区.eps>
+File: picture/mode_share_松山市4区.eps Graphic file (type eps)
+ <picture/mode_share_松山市4区.eps>
+File: picture/mode_share_松山市5区.eps Graphic file (type eps)
+ <picture/mode_share_松山市5区.eps> [36]
+File: picture/mode_share_松山市6区.eps Graphic file (type eps)
+ <picture/mode_share_松山市6区.eps>
+File: picture/mode_share_松山市7区.eps Graphic file (type eps)
+ <picture/mode_share_松山市7区.eps> [37]
+File: picture/mode_share_松山市8区.eps Graphic file (type eps)
+ <picture/mode_share_松山市8区.eps>
+File: picture/mode_share_松山市9区.eps Graphic file (type eps)
+ <picture/mode_share_松山市9区.eps>
+File: picture/mode_share_松山市10区.eps Graphic file (type eps)
+ <picture/mode_share_松山市10区.eps> [38]
+File: picture/mode_share_松山市11区.eps Graphic file (type eps)
+ <picture/mode_share_松山市11区.eps>
+File: picture/mode_share_松山市12区.eps Graphic file (type eps)
+ <picture/mode_share_松山市12区.eps> [39]
+File: picture/mode_share_松山市13区.eps Graphic file (type eps)
+ <picture/mode_share_松山市13区.eps>
+File: picture/mode_share_松山市14区.eps Graphic file (type eps)
+ <picture/mode_share_松山市14区.eps>
+File: picture/mode_share_松山市15区.eps Graphic file (type eps)
+ <picture/mode_share_松山市15区.eps> [40]
+File: picture/mode_share_松山市16区.eps Graphic file (type eps)
+ <picture/mode_share_松山市16区.eps>
+File: picture/mode_share_松山市17区.eps Graphic file (type eps)
+ <picture/mode_share_松山市17区.eps> [41]
+File: picture/mode_share_松山市18区.eps Graphic file (type eps)
+ <picture/mode_share_松山市18区.eps>
+File: picture/mode_share_松山市19区.eps Graphic file (type eps)
+ <picture/mode_share_松山市19区.eps>
+File: picture/mode_share_松山市20区.eps Graphic file (type eps)
+
+<picture/mode_share_松山市20区.eps> [42]
+File: picture/mode_share_松山市21区.eps Graphic file (type eps)
+ <picture/mode_share_松山市21区.eps>
+File: picture/mode_share_松山市22区.eps Graphic file (type eps)
+ <picture/mode_share_松山市22区.eps> [43]
+File: picture/mode_share_松山市27区.eps Graphic file (type eps)
+ <picture/mode_share_松山市27区.eps>
+File: picture/mode_share_伊予市1区.eps Graphic file (type eps)
+ <picture/mode_share_伊予市1区.eps>
+File: picture/mode_share_東温市1区.eps Graphic file (type eps)
+ <picture/mode_share_東温市1区.eps> [44]
+File: picture/mode_share_松前町.eps Graphic file (type eps)
+ <picture/mode_share_松前町.eps>
+File: picture/mode_share_砥部町1区.eps Graphic file (type eps)
+ <picture/mode_share_砥部町1区.eps> [45] [46]
+File: picture/time_通勤.eps Graphic file (type eps)
+ <picture/time_通勤.eps> [47
+
+]
+File: picture/time_通学.eps Graphic file (type eps)
+ <picture/time_通学.eps>
+File: picture/time_買い物.eps Graphic file (type eps)
+ <picture/time_買い物.eps> [48
+
+] [49]
+File: picture/time_食事・社交・娯楽.eps Graphic file (type eps)
+ <picture/time_食事・社交・娯楽.eps> [50
+
+]
+File: picture/facility_share_parking.eps Graphic file (type eps)
+ <picture/facility_share_parking.eps> [51
+
+]
+File: picture/parking_share_facility.eps Graphic file (type eps)
+ <picture/parking_share_facility.eps> [52
+
+]
+File: picture/parking_share_zone.eps Graphic file (type eps)
+ <picture/parking_share_zone.eps> [53
+
+]
+File: picture/parking_fee.eps Graphic file (type eps)
+ <picture/parking_fee.eps>
+File: picture/parking_fee_per_hour.eps Graphic file (type eps)
+ <picture/parking_fee_per_hour.eps> [54
+
+]
+File: picture/transit_combination.eps Graphic file (type eps)
+ <picture/transit_combination.eps> [55
+
+] [56
+
 
 ]
 第3章
-[9] [10
+File: picture/activity_pattern_若年層.eps Graphic file (type eps)
+<picture/activity_pattern_若年層.eps>
+File: picture/connection_若年層_通勤・通学.eps Graphic file (type eps)
+ <picture/connection_若年層_通勤・通学.eps>
+File: picture/connection_通勤・通学.eps Graphic file (type eps)
+ <picture/connection_通勤・通学.eps> [57]
+File: picture/connection_若年層_買い物.eps Graphic file (type eps)
+ <picture/connection_若年層_買い物.eps>
+File: picture/connection_買い物.eps Graphic file (type eps)
+ <picture/connection_買い物.eps>
+File: picture/connection_若年層_食事_社交_娯楽_観光.eps Graphic file (type eps)
+ <picture/connection_若年層_食事_社交_娯楽_観光.eps>
+File: picture/connection_食事_社交_娯楽_観光.eps Graphic file (type eps)
+ <picture/connection_食事_社交_娯楽_観光.eps> [58] [59] [60] [61]
+File: picture/mode_share_purpose_若年層.eps Graphic file (type eps)
+ <picture/mode_share_purpose_若年層.eps> [62
 
 ]
+File: picture/mode_share_distance_若年層.eps Graphic file (type eps)
+ <picture/mode_share_distance_若年層.eps> [63
+
+]
+File: picture/activity_pattern_中高生.eps Graphic file (type eps)
+ <picture/activity_pattern_中高生.eps>
+File: picture/connection_中高生_買い物.eps Graphic file (type eps)
+ <picture/connection_中高生_買い物.eps>
+File: picture/connection_買い物.eps Graphic file (type eps)
+ <picture/connection_買い物.eps> [64
+
+] [65]
+File: picture/mode_share_purpose_中高生.eps Graphic file (type eps)
+ <picture/mode_share_purpose_中高生.eps>
+File: picture/mode_share_distance_中高生.eps Graphic file (type eps)
+ <picture/mode_share_distance_中高生.eps> [66
+
+] [67]
+File: picture/activity_pattern_高齢者.eps Graphic file (type eps)
+ <picture/activity_pattern_高齢者.eps>
+File: picture/connection_高齢者_買い物.eps Graphic file (type eps)
+ <picture/connection_高齢者_買い物.eps>
+File: picture/connection_買い物.eps Graphic file (type eps)
+ <picture/connection_買い物.eps>
+File: picture/connection_高齢者_食事_社交_娯楽_観光.eps Graphic file (type eps)
+ <picture/connection_高齢者_食事_社交_娯楽_観光.eps>
+File: picture/connection_食事_社交_娯楽_観光.eps Graphic file (type eps)
+ <picture/connection_食事_社交_娯楽_観光.eps> [68
+
+] [69] [70]
+File: picture/mode_share_purpose_高齢者.eps Graphic file (type eps)
+ <picture/mode_share_purpose_高齢者.eps> [71
+
+]
+File: picture/mode_share_distance_高齢者.eps Graphic file (type eps)
+
+<picture/mode_share_distance_高齢者.eps> [72
+
+]
+File: picture/activity_pattern_返納.eps Graphic file (type eps)
+ <picture/activity_pattern_返納.eps>
+File: picture/connection_返納_買い物.eps Graphic file (type eps)
+ <picture/connection_返納_買い物.eps>
+File: picture/connection_高齢者_買い物.eps Graphic file (type eps)
+ <picture/connection_高齢者_買い物.eps>
+File: picture/connection_返納_食事_社交_娯楽_観光.eps Graphic file (type eps)
+ <picture/connection_返納_食事_社交_娯楽_観光.eps>
+File: picture/connection_高齢者_食事_社交_娯楽_観光.eps Graphic file (type eps)
+ <picture/connection_高齢者_食事_社交_娯楽_観光.eps> [73
+
+] [74] [75]
+File: picture/mode_share_purpose_返納.eps Graphic file (type eps)
+ <picture/mode_share_purpose_返納.eps>
+File: picture/mode_share_distance_返納.eps Graphic file (type eps)
+ <picture/mode_share_distance_返納.eps> [76
+
+] [77]
+File: picture/activity_pattern_子育て.eps Graphic file (type eps)
+ <picture/activity_pattern_子育て.eps>
+File: picture/sougei_gender_parent.eps Graphic file (type eps)
+ <picture/sougei_gender_parent.eps>
+File: picture/connection_子育て_食事_社交_娯楽_観光.eps Graphic file (type eps)
+ <picture/connection_子育て_食事_社交_娯楽_観光.eps>
+File: picture/connection_大人_食事_社交_娯楽_観光.eps Graphic file (type eps)
+ <picture/connection_大人_食事_社交_娯楽_観光.eps> [78
+
+] [79] [80]
+File: picture/mode_share_purpose_子育て.eps Graphic file (type eps)
+ <picture/mode_share_purpose_子育て.eps> [81
+
+]
+File: picture/mode_share_distance_子育て.eps Graphic file (type eps)
+ <picture/mode_share_distance_子育て.eps> [82
+
+]
+File: picture/online_work_age.eps Graphic file (type eps)
+ <picture/online_work_age.eps>
+File: picture/online_shopping_age.eps Graphic file (type eps)
+ <picture/online_shopping_age.eps> [83
+
+] [84]
+File: picture/activity_pattern_在宅勤務者.eps Graphic file (type eps)
+ <picture/activity_pattern_在宅勤務者.eps>
+File: picture/connection_在宅_通勤・通学.eps Graphic file (type eps)
+ <picture/connection_在宅_通勤・通学.eps>
+File: picture/connection_大人_通勤・通学.eps Graphic file (type eps)
+ <picture/connection_大人_通勤・通学.eps>
+File: picture/connection_在宅_買い物.eps Graphic file (type eps)
+ <picture/connection_在宅_買い物.eps>
+File: picture/connection_大人_買い物.eps Graphic file (type eps)
+
+<picture/connection_大人_買い物.eps> [85] [86] [87]
+File: picture/mode_share_purpose_在宅.eps Graphic file (type eps)
+ <picture/mode_share_purpose_在宅.eps> [88
+
+]
+File: picture/mode_share_distance_在宅.eps Graphic file (type eps)
+ <picture/mode_share_distance_在宅.eps> [89
+
+]
+File: picture/income.eps Graphic file (type eps)
+ <picture/income.eps> [90
+
+]
+File: picture/activity_pattern_低所得.eps Graphic file (type eps)
+ <picture/activity_pattern_低所得.eps>
+File: picture/connection_低所得層_買い物.eps Graphic file (type eps)
+ <picture/connection_低所得層_買い物.eps>
+File: picture/connection_大人_買い物.eps Graphic file (type eps)
+ <picture/connection_大人_買い物.eps>
+File: picture/connection_低所得層_食事_社交_娯楽_観光.eps Graphic file (type eps)
+ <picture/connection_低所得層_食事_社交_娯楽_観光.eps>
+File: picture/connection_大人_食事_社交_娯楽_観光.eps Graphic file (type eps)
+ <picture/connection_大人_食事_社交_娯楽_観光.eps> [91] [92] [93]
+File: picture/mode_share_purpose_低所得.eps Graphic file (type eps)
+ <picture/mode_share_purpose_低所得.eps>
+File: picture/mode_share_distance_低所得.eps Graphic file (type eps)
+ <picture/mode_share_distance_低所得.eps> [94
+
+] [95]
+File: picture/activity_pattern_介助.eps Graphic file (type eps)
+ <picture/activity_pattern_介助.eps>
+File: picture/connection_介助_買い物.eps Graphic file (type eps)
+ <picture/connection_介助_買い物.eps>
+File: picture/connection_買い物.eps Graphic file (type eps)
+ <picture/connection_買い物.eps>
+File: picture/connection_介助_食事_社交_娯楽_観光.eps Graphic file (type eps)
+ <picture/connection_介助_食事_社交_娯楽_観光.eps>
+File: picture/connection_食事_社交_娯楽_観光.eps Graphic file (type eps)
+ <picture/connection_食事_社交_娯楽_観光.eps> [96
+
+] [97] [98]
+File: picture/mode_share_purpose_介助.eps Graphic file (type eps)
+ <picture/mode_share_purpose_介助.eps>
+File: picture/mode_share_distance_介助.eps Graphic file (type eps)
+ <picture/mode_share_distance_介助.eps> [99
+
+] [100]
 第4章
-[11] [12
+File: picture/転居理由.eps Graphic file (type eps)
+<picture/転居理由.eps> [101
+
+] [102]
+File: picture/転居理由_共起.eps Graphic file (type eps)
+ <picture/転居理由_共起.eps> [103
+
+]
+File: picture/OD_relocated_people.eps Graphic file (type eps)
+ <picture/OD_relocated_people.eps> [104
+
+]
+Overfull \vbox (50.23982pt too high) has occurred while \output is active []
+
+ [105]
+File: picture/OD_inside_matsuyama.eps Graphic file (type eps)
+ <picture/OD_inside_matsuyama.eps>
+File: picture/reason_ratio_come.eps Graphic file (type eps)
+ <picture/reason_ratio_come.eps> [106]
+File: picture/reason_ratio_go.eps Graphic file (type eps)
+ <picture/reason_ratio_go.eps> [107]
+File: picture/distance_near.eps Graphic file (type eps)
+ <picture/distance_near.eps>
+File: picture/relocation_distance_3.eps Graphic file (type eps)
+ <picture/relocation_distance_3.eps>
+File: picture/relocation_distance_9.eps Graphic file (type eps)
+ <picture/relocation_distance_9.eps>
+File: picture/relocation_distance_13.eps Graphic file (type eps)
+ <picture/relocation_distance_13.eps> [108
+
+]
+File: picture/relocation_age.eps Graphic file (type eps)
+ <picture/relocation_age.eps>
+File: picture/relocation_age_1.eps Graphic file (type eps)
+ <picture/relocation_age_1.eps>
+File: picture/relocation_age_2.eps Graphic file (type eps)
+ <picture/relocation_age_2.eps>
+File: picture/relocation_age_3.eps Graphic file (type eps)
+ <picture/relocation_age_3.eps>
+File: picture/relocation_age_6.eps Graphic file (type eps)
+ <picture/relocation_age_6.eps>
+File: picture/relocation_age_7.eps Graphic file (type eps)
+ <picture/relocation_age_7.eps>
+File: picture/relocation_age_13.eps Graphic file (type eps)
+ <picture/relocation_age_13.eps> [109
+
+]
+File: picture/center_distance_car.eps Graphic file (type eps)
+ <picture/center_distance_car.eps>
+File: picture/center_distance_nocar.eps Graphic file (type eps)
+ <picture/center_distance_nocar.eps> [110
+
+] [111
+
+] [112
 
 ]
 第5章
-[13] [14
+[113] Excluding 'comment' comment. [114]
+第6章
+[115
+
+] [116] [117] [118] [119] [120] [121] [122
 
 ]
-第6章
-[15] [16
+Overfull \hbox (200.7727pt too wide) in paragraph at lines 2754--2755
+[]\JY2/mc/m/n/10 松山市\OT1/cmr/m/n/10 , \JY2/mc/m/n/10 松山市総合交通戦略 \OT1/cmr/m/n/10 (\JY2/mc/m/n/10 概要版\OT1/cmr/m/n/10 ), [][][][][][],
+ []
 
-] [17] (./main.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 2756--2757
+[]\JY2/mc/m/n/10 一般財団法人 計量計画研究所\OT1/cmr/m/n/10 , IBS An-nual Re-port \JY2/mc/m/n/10 研究活動報告 \OT1/cmr/m/n/10 2020,
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 2758--2759
+[]\JY2/mc/m/n/10 熊本都市圏総合交通計画協議会\OT1/cmr/m/n/10 , \JY2/mc/m/n/10 熊本都市圏総合交通計画協議会 第 \OT1/cmr/m/n/10 4 \JY2/mc/m/n/10 回 委員会 資料\OT1/cmr/m/n/10 ,
+ []
+
+[123] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: EF46666C5F341727708CDA03D549A641;624.
+(rerunfilecheck)             Checksum: 06B285543736BE99344F6DD4EC7144DE;4049.
  ) 
 Here is how much of TeX's memory you used:
- 8859 strings out of 479460
- 129078 string characters out of 5870464
- 448579 words of memory out of 5000000
- 26455 multiletter control sequences out of 15000+600000
- 416094 words of font info for 91 fonts, out of 8000000 for 9000
+ 11218 strings out of 479460
+ 182825 string characters out of 5870464
+ 508662 words of memory out of 5000000
+ 28636 multiletter control sequences out of 15000+600000
+ 418098 words of font info for 100 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 76i,9n,80p,317b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 76i,9n,80p,619b,469s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (17 pages, 22924 bytes).
+Output written on main.dvi (123 pages, 372464 bytes).

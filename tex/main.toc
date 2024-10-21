@@ -1,7 +1,120 @@
-\contentsline {chapter}{\numberline {第1章}はじめに}{5}{chapter.1}%
-\contentsline {chapter}{\numberline {第2章}データの概要}{7}{chapter.2}%
-\contentsline {chapter}{\numberline {第3章}松山都市圏全体の分析}{9}{chapter.3}%
-\contentsline {chapter}{\numberline {第4章}各地域の分析}{11}{chapter.4}%
-\contentsline {chapter}{\numberline {第5章}都市圏の課題と政策の提案}{13}{chapter.5}%
-\contentsline {chapter}{\numberline {第6章}おわりに}{15}{chapter.6}%
-\contentsline {chapter}{参考文献}{17}{chapter*.2}%
+\contentsline {chapter}{\numberline {第1章}2023年松山都市圏パーソントリップ調査の概要}{5}{chapter.1}%
+\contentsline {chapter}{\numberline {第2章}松山都市圏全体の移動の分析}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}トリップ数と外出率の分析 (拡大前PTを使用)}{11}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}全体的な傾向}{11}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}地域別の傾向}{13}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}性・年齢別の傾向}{15}{subsection.2.1.3}%
+\contentsline {section}{\numberline {2.2}トリップの出発地と到着地の分析}{18}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}通勤・通学}{18}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}買い物}{20}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}食事・社交・娯楽、観光・行楽・レジャー}{23}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}交通手段分担率の分析}{25}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}全体的な傾向}{25}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}年齢別の交通手段分担率}{27}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}年齢・目的別の交通手段分担率}{29}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}距離帯別の交通手段分担率}{33}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}地区間の移動の交通手段分担率}{35}{subsection.2.3.5}%
+\contentsline {subsubsection}{松山市1区 (市駅、大街道、松山城)}{35}{section*.31}%
+\contentsline {subsubsection}{松山市2区 (大手町、本町、味酒)}{35}{section*.33}%
+\contentsline {subsubsection}{松山市3区 (愛媛大、松山東高校、祝谷)}{36}{section*.35}%
+\contentsline {subsubsection}{松山市4区 (いよ立花駅、朝生田)}{36}{section*.37}%
+\contentsline {subsubsection}{松山市5区 (土橋、空港通り、南江戸)}{37}{section*.39}%
+\contentsline {subsubsection}{松山市6区 (衣山、宮田町)}{37}{section*.41}%
+\contentsline {subsubsection}{松山市7区 (木屋町、山越、姫原)}{37}{section*.43}%
+\contentsline {subsubsection}{松山市8区 (湯の山、北東山地)}{38}{section*.45}%
+\contentsline {subsubsection}{松山市9区 (平井、梅本、東久米)}{38}{section*.47}%
+\contentsline {subsubsection}{松山市10区 (桑原、畑寺、東野)}{39}{section*.49}%
+\contentsline {subsubsection}{松山市11区 (久米、南土居、高井)}{39}{section*.51}%
+\contentsline {subsubsection}{松山市12区 (久谷、荏原、浄瑠璃)}{39}{section*.53}%
+\contentsline {subsubsection}{松山市13区 (和泉南、古川北、石井、朝生田)}{40}{section*.55}%
+\contentsline {subsubsection}{松山市14区 (市坪、松山IC、森松)}{40}{section*.57}%
+\contentsline {subsubsection}{松山市15区 (垣生、余戸、土居田)}{41}{section*.59}%
+\contentsline {subsubsection}{松山市16区 (北斎院、南斎院、北吉田)}{41}{section*.61}%
+\contentsline {subsubsection}{松山市17区 (JR三津浜駅、山西、松ノ木)}{41}{section*.63}%
+\contentsline {subsubsection}{松山市18区 (久万ノ台、谷町、北部山地)}{42}{section*.65}%
+\contentsline {subsubsection}{松山市19区 (伊予和気、堀江)}{42}{section*.67}%
+\contentsline {subsubsection}{松山市20区 (高浜、興居島)}{43}{section*.69}%
+\contentsline {subsubsection}{松山市21区 (空港)}{43}{section*.71}%
+\contentsline {subsubsection}{松山市22区 (道後温泉、石手寺)}{43}{section*.73}%
+\contentsline {subsubsection}{松山市27区 (北条)}{44}{section*.75}%
+\contentsline {subsubsection}{伊予市1区 (郡中、伊予市駅)}{44}{section*.77}%
+\contentsline {subsubsection}{東温市1区 (横河原駅、愛大医学部)}{45}{section*.79}%
+\contentsline {subsubsection}{松前町}{45}{section*.81}%
+\contentsline {subsubsection}{砥部町1区 (砥部町中心部、動物園)}{45}{section*.83}%
+\contentsline {section}{\numberline {2.4}移動時間の分析}{47}{section.2.4}%
+\contentsline {section}{\numberline {2.5}駐車場の利用状況}{51}{section.2.5}%
+\contentsline {section}{\numberline {2.6}端末交通と交通手段の組み合わせ}{55}{section.2.6}%
+\contentsline {chapter}{\numberline {第3章}主体に着目した移動の分析}{57}{chapter.3}%
+\contentsline {section}{\numberline {3.1}19〜25歳の若年層}{57}{section.3.1}%
+\contentsline {section}{\numberline {3.2}中学生・高校生}{64}{section.3.2}%
+\contentsline {section}{\numberline {3.3}70歳以上の高齢者}{68}{section.3.3}%
+\contentsline {section}{\numberline {3.4}免許返納者 (70歳以上)}{73}{section.3.4}%
+\contentsline {section}{\numberline {3.5}子育て世帯の大人}{78}{section.3.5}%
+\contentsline {section}{\numberline {3.6}在宅勤務者}{83}{section.3.6}%
+\contentsline {section}{\numberline {3.7}低所得世帯 (59歳以下)}{90}{section.3.7}%
+\contentsline {section}{\numberline {3.8}外出に困難のある人}{96}{section.3.8}%
+\contentsline {chapter}{\numberline {第4章}居住地移転の分析}{101}{chapter.4}%
+\contentsline {section}{\numberline {4.1}転居の履歴}{101}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}転居の理由}{101}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}転居元、転居先の関係}{104}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}各地域から/への転居理由}{106}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}転居世帯の移転距離}{108}{subsection.4.1.4}%
+\contentsline {subsection}{\numberline {4.1.5}転居時の世帯主の年齢}{109}{subsection.4.1.5}%
+\contentsline {subsection}{\numberline {4.1.6}中心部からの距離}{110}{subsection.4.1.6}%
+\contentsline {section}{\numberline {4.2}今後の住み替えの意向}{110}{section.4.2}%
+\contentsline {chapter}{\numberline {第5章}都市圏の課題と政策の提案}{113}{chapter.5}%
+\contentsline {section}{\numberline {5.1}子ども・若者にとって楽しい中心市街地}{113}{section.5.1}%
+\contentsline {section}{\numberline {5.2}子育て家庭を呼び込む公共交通}{113}{section.5.2}%
+\contentsline {section}{\numberline {5.3}自転車にやさしいまち}{114}{section.5.3}%
+\contentsline {section}{\numberline {5.4}コミュニケーションと倫理}{114}{section.5.4}%
+\contentsline {chapter}{\numberline {第6章}資料: UDCM学生ワークショップ}{115}{chapter.6}%
+\contentsline {section}{\numberline {6.1}テーマ1: 週末どこ行く？なにで行く？なんで？どうしたら？WS}{115}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Aさん：車・お墓参り。その後、母とスーパーへ。}{115}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Bさん：自転車・大街道の居酒屋}{116}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}Cさん：自転車・衣山の映画館}{116}{subsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.1.4}Dさん：自転車・市駅近くのカフェ・本屋}{116}{subsection.6.1.4}%
+\contentsline {subsection}{\numberline {6.1.5}Eさん：車・いちご目和（東温）}{116}{subsection.6.1.5}%
+\contentsline {subsection}{\numberline {6.1.6}Fさん：友人の車・エミフルMASAKI}{117}{subsection.6.1.6}%
+\contentsline {subsection}{\numberline {6.1.7}Gさん：自転車・三津浜へかき氷を食べに}{117}{subsection.6.1.7}%
+\contentsline {subsection}{\numberline {6.1.8}Hさん：徒歩・久米の居酒屋}{117}{subsection.6.1.8}%
+\contentsline {subsection}{\numberline {6.1.9}Iさん：自転車・大街道付近で夜ご飯を食べる}{118}{subsection.6.1.9}%
+\contentsline {subsection}{\numberline {6.1.10}Jさん：自転車・大街道; 衣山; 大学; UDCM}{118}{subsection.6.1.10}%
+\contentsline {subsection}{\numberline {6.1.11}Kさん：車・今治のイオン}{118}{subsection.6.1.11}%
+\contentsline {section}{\numberline {6.2}テーマ2: 身近な人のあったらいいなを叶えてあげようWS}{119}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Aさん}{119}{subsection.6.2.1}%
+\contentsline {subsubsection}{エピソード}{119}{section*.159}%
+\contentsline {subsubsection}{解決策}{119}{section*.160}%
+\contentsline {subsection}{\numberline {6.2.2}Bさん}{119}{subsection.6.2.2}%
+\contentsline {subsubsection}{エピソード}{119}{section*.161}%
+\contentsline {subsubsection}{解決策}{119}{section*.162}%
+\contentsline {subsection}{\numberline {6.2.3}Cさん}{119}{subsection.6.2.3}%
+\contentsline {subsubsection}{エピソード}{119}{section*.163}%
+\contentsline {subsubsection}{解決策}{119}{section*.164}%
+\contentsline {subsection}{\numberline {6.2.4}Dさん}{119}{subsection.6.2.4}%
+\contentsline {subsubsection}{エピソード}{119}{section*.165}%
+\contentsline {subsubsection}{解決策}{120}{section*.166}%
+\contentsline {subsection}{\numberline {6.2.5}Eさん}{120}{subsection.6.2.5}%
+\contentsline {subsubsection}{エピソード}{120}{section*.167}%
+\contentsline {subsubsection}{解決策}{120}{section*.168}%
+\contentsline {subsection}{\numberline {6.2.6}Fさん}{120}{subsection.6.2.6}%
+\contentsline {subsubsection}{エピソード}{120}{section*.169}%
+\contentsline {subsubsection}{解決策}{120}{section*.170}%
+\contentsline {subsection}{\numberline {6.2.7}Gさん}{120}{subsection.6.2.7}%
+\contentsline {subsubsection}{エピソード}{120}{section*.171}%
+\contentsline {subsubsection}{解決策}{120}{section*.172}%
+\contentsline {subsection}{\numberline {6.2.8}Hさん}{120}{subsection.6.2.8}%
+\contentsline {subsubsection}{エピソード}{120}{section*.173}%
+\contentsline {subsubsection}{解決策}{120}{section*.174}%
+\contentsline {subsection}{\numberline {6.2.9}Iさん}{121}{subsection.6.2.9}%
+\contentsline {subsubsection}{エピソード}{121}{section*.175}%
+\contentsline {subsubsection}{解決策}{121}{section*.176}%
+\contentsline {subsection}{\numberline {6.2.10}Jさん}{121}{subsection.6.2.10}%
+\contentsline {subsubsection}{エピソード}{121}{section*.177}%
+\contentsline {subsubsection}{解決策}{121}{section*.178}%
+\contentsline {subsection}{\numberline {6.2.11}Kさん}{121}{subsection.6.2.11}%
+\contentsline {subsubsection}{エピソード}{121}{section*.179}%
+\contentsline {subsubsection}{解決策}{121}{section*.180}%
+\contentsline {subsection}{\numberline {6.2.12}Lさん}{121}{subsection.6.2.12}%
+\contentsline {subsubsection}{エピソード}{121}{section*.181}%
+\contentsline {subsubsection}{解決策}{121}{section*.182}%
+\contentsline {chapter}{参考文献}{123}{chapter*.183}%
