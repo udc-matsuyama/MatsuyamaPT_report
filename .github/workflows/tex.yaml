@@ -16,9 +16,9 @@ jobs:
     - name: Set up LaTeX environment
       uses: dante-ev/latex-action@latest
       with:
-        root_file: main.tex  # ここにコンパイルするTeXファイル名を指定
-        compiler: latexmk
-        args: -pdf -latexoption=-file-line-error -latexoption=-interaction=nonstopmode
+        root_file: main.tex  # コンパイルするTeXファイル名
+        compiler: platex  # pLaTeXを指定
+        args: -latexoption=-file-line-error -latexoption=-interaction=nonstopmode
 
     - name: Create Release
       id: create_release
