@@ -25,11 +25,11 @@ jobs:
       uses: softprops/action-gh-release@v1
       with:
         tag_name: "v${{ github.sha }}"  # コミットSHAをタグ名として使用
-        release_name: "Automated Release for ${{ github.sha }}"
+        name: "Automated Release for ${{ github.sha }}"  # release_nameをnameに変更
         draft: false
         prerelease: false
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
     - name: Upload PDF to Release
       uses: actions/upload-release-asset@v1
