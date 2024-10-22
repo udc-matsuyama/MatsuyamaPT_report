@@ -17,8 +17,8 @@ jobs:
       uses: dante-ev/latex-action@latest
       with:
         root_file: main.tex  # コンパイルするTeXファイル名
-        compiler: platex  # pLaTeXを指定
-        args: -latexoption=-file-line-error -latexoption=-interaction=nonstopmode
+        compiler: uplatex  # uplatexを指定
+        args: -pdf -latexoption=-file-line-error -latexoption=-interaction=nonstopmode
 
     - name: Create Release
       id: create_release
